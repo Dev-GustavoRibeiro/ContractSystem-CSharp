@@ -1,5 +1,5 @@
 # ContractSystem-CSharp
-Interface em C#
+Exercício com Interface - C#
 
 Uma empresa deseja automatizar o processamento de seus contratos. O processamento de um contrato consiste em gerar as parcelas a serem
 pagas para aquele contrato, com base no número de meses desejado. A empresa utiliza um serviço de pagamento online para realizar o
@@ -12,7 +12,7 @@ dados das parcelas na tela.
 
 *****************************************************************************************************************************************
 
-C# interface
+Interface exercise - C#
 
 A company wants to automate the processing of its contracts. The processing of A contract consists of generating the installments to be
 paid for that contract, based on the desired number of months. The company uses an online payment service to make payment of installments.
